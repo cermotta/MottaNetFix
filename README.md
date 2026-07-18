@@ -21,10 +21,11 @@ O MottaNetFix é um utilitário de manutenção técnica desenvolvido para autom
 3. Escolha a opção desejada no menu interativo.
    > **Nota:** A opção 1 (Reset Completo) requer que o computador seja reiniciado após a conclusão.
 
+<img width="983" height="518" alt="image" src="https://github.com/user-attachments/assets/db7cb660-c5d4-426e-a63e-6693bc2f91e2" />
+
+
 ## ☕ Apoie o Projeto
 Se o MottaNetFix ajudou você e deseja apoiar o desenvolvimento contínuo da ferramenta, qualquer contribuição é muito bem-vinda! 
-
-<img width="983" height="518" alt="image" src="https://github.com/user-attachments/assets/db7cb660-c5d4-426e-a63e-6693bc2f91e2" />
 
 **Chave PIX (E-mail):** `mottatshirts@jim.com`
 
