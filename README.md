@@ -29,5 +29,3 @@ Se o MottaNetFix ajudou você e deseja apoiar o desenvolvimento contínuo da fer
 **PIX Copia e Cola (R$ 5,00):**
 ```text
 00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF
-
-<img width="983" height="518" alt="image" src="https://github.com/user-attachments/assets/245d6141-36de-4ad8-bc4a-9bd3482c850d" />
