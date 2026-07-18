@@ -6,7 +6,7 @@ O MottaNetFix é um utilitário de manutenção técnica desenvolvido para autom
 * **Nomenclatura Mais Intuitiva:** Títulos de menus mais descritivos para evitar qualquer dúvida durante a operação.
 * **Estabilidade de Navegação:** Ajustes finos no fluxo para garantir uma transição suave entre os menus de diagnóstico e teste.
 
-## Funcionalidades Detalhadas
+## 🛠️ Funcionalidades Detalhadas
 * **1 - Reset Completo de Pilha TCP/IP e Cache:** Executa o reset dos protocolos de rede (Winsock e TCP/IP) para corrigir erros profundos de conexão e "fiação" digital corrompida.
 * **2 - Limpeza de Cache DNS (FlushDNS):** Resolve falhas onde sites não carregam ou redirecionam incorretamente.
 * **3 - Renovação de IP:** Força o adaptador de rede a solicitar um novo endereço IP junto ao roteador (DHCP).
@@ -15,18 +15,20 @@ O MottaNetFix é um utilitário de manutenção técnica desenvolvido para autom
 * **6 - Testar Velocidade:** Mede a banda real de Download, Upload e a Latência (Ping) utilizando servidores profissionais, com opção de modo automático ou manual.
 * **7 - Central de Ajuda:** Guia rápido e didático para resolver problemas comuns de rede.
 
-## Como usar
+## 🚀 Como usar
 1. Baixe o executável `MottaNetFix.exe` na seção de **Releases**.
-2. Clique com o botão direito sobre o arquivo e selecione "Executar como Administrador".
+2. Clique com o botão direito sobre o arquivo e selecione **"Executar como Administrador"**.
 3. Escolha a opção desejada no menu interativo.
-   * *Nota: A opção 1 (Reset Completo) requer que o computador seja reiniciado após a conclusão.*
+   > **Nota:** A opção 1 (Reset Completo) requer que o computador seja reiniciado após a conclusão.
 
-## Requisitos Técnicos
-* Windows 10 ou superior.
-* Acesso à internet para testes de velocidade e atualizações de DNS.
+## ☕ Apoie o Projeto
+Se o MottaNetFix ajudou você e deseja apoiar o desenvolvimento contínuo da ferramenta, qualquer contribuição é muito bem-vinda! 
 
-## Licença
-Este projeto é distribuído sob a licença MIT.
+**Chave PIX (E-mail):** `mottatshirts@jim.com`
+
+**PIX Copia e Cola (R$ 5,00):**
+```text
+00020101021226840014BR.GOV.BCB.PIX0136dbf0d223-9202-4aaa-b881-cce9603f8fc20222Pagamento mottatshirts52040000530398654045.005802BR5925CARLOS EDUARDO ROLIM DA M6005BELEM62290525QRCCIICLZgxrN6aElFvgLxPOC63044CBF
 
 <img width="983" height="518" alt="image" src="https://github.com/user-attachments/assets/dc43f68b-f4b4-4a5d-916d-6f19065acfc6" />
 
